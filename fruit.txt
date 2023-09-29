@@ -2,3 +2,5 @@ apple
 mango
 lily
 jasmine
+emerald
+pearl
