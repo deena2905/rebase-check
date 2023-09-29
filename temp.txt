@@ -11,3 +11,5 @@ odin
 thor
 freya
 figg
+baldur
+loki
