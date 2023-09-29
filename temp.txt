@@ -13,3 +13,5 @@ freya
 figg
 baldur
 loki
+jotunn
+minnerva
