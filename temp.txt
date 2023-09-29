@@ -5,3 +5,5 @@ hhl
 sky
 moon
 telescope
+star
+sun
