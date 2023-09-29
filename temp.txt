@@ -9,3 +9,7 @@ star
 sun
 odin
 thor
+freya
+figg
+baldur
+loki
