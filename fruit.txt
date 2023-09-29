@@ -4,3 +4,5 @@ lily
 jasmine
 emerald
 pearl
+gold
+silver
