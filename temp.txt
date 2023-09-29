@@ -7,3 +7,5 @@ moon
 telescope
 star
 sun
+odin
+thor
