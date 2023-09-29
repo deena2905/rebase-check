@@ -1,2 +1,4 @@
 happy
 anger
+pleaseant
+melancholy
