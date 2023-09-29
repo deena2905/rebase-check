@@ -1,0 +1,9 @@
+apple
+mango
+lily
+jasmine
+emerald
+pearl
+gold
+silver
+diamond
